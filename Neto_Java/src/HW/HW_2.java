@@ -1,3 +1,5 @@
+package HW;
+
 import java.util.Scanner;
 import ru.netology.service.CustomsService;
 public class HW_2 {

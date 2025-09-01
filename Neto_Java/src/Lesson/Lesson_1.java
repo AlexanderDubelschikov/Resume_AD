@@ -1,3 +1,5 @@
+package Lesson;
+
 import my.favourite.code.B;
 import java.util.Scanner;
 public class Lesson_1 {

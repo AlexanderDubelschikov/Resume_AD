@@ -1,3 +1,5 @@
+package Lesson;
+
 public class Lesson_1_Help {
 
     public static void printDelim(String title){ //Статический метод(ПАПАМЕТР)
