@@ -24,13 +24,43 @@ public class Lesson_3 {
         System.out.println(r2);
 
         int sp = 1;
-        while (true){
+
+        /*while (true){
             System.out.println(sp);
             sp *=10;
             Thread.sleep(300);
-        }
+        }*/
 
         //При сложении (других операциях) целых чисел с разными типами, итог будет самым "жирным" типом.
+
+        double d1 = 0.3 + 0.3 + 0.3;
+        double d2 = 0.9;
+        System.out.println(d1);
+        System.out.println(d2);
+
+        if (Math.abs(d1 - d2) < 0.00001/*Выбирать по задаче*/){
+            System.out.println("Равны!");
+        }
+
+        double x1 = 5;
+        double x2 = 0;
+        System.out.println(x1/x2);
+
+        double d3 = 5/x2;
+        double d4 = 4/x2;
+        System.out.println(d4 - d3);
+
+        char c = 'a';
+        char c2 = 322;
+        System.out.println(c2);
+
+        boolean t1 = true;
+        boolean f1 = false;
+
+
+
+
+
 
 
 

@@ -13,8 +13,10 @@
 public class Test {
     public static void main(String[] args){
 
-        if(false){
+        
+
+        /*if(false){
             System.out.println("Меня не остановить!");
-        }
+        }*/
     }
 }
