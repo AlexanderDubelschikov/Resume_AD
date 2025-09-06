@@ -9,7 +9,6 @@ public class HW_4 {
 
     public static void main(String[] args) {
 
-
         Scanner scanner = new Scanner(System.in);
         int earnings = 0;
         int spendings = 0;
@@ -50,12 +49,18 @@ public class HW_4 {
                     int tax2 = taxEarnings(earnings);
 
                     if (tax > tax2) {
+                        System.out.println("Мы советуем УСН доходы");
                         System.out.println("Ваш налог составит: " + tax2 + " рублей.");
                         System.out.println("Налог в другой системе : " + tax + " рублей.");
                         System.out.println("Экономия: " + (tax-tax2) + " рублей");
                         System.out.println("");
                     }
+                    else if(tax == tax2){
+                        System.out.println("Выбирайте любой УНС");
+                        System.out.println("Ваш налог составит: " + tax2 + " рублей.");
+                    }
                     else{
+                        System.out.println("Мы советуем УСН доходы-расходы");
                         System.out.println("Ваш налог составит: " + tax + " рублей.");
                         System.out.println("Налог в другой системе : " + tax2 + " рублей.");
                         System.out.println("Экономия: " + (tax2-tax) + " рублей");
@@ -85,5 +90,6 @@ public class HW_4 {
         int tax = earnings* 6 / 100;
         return tax;
     }
+
 
 }
