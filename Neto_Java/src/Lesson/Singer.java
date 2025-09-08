@@ -2,9 +2,24 @@ package Lesson;
 
 public class Singer {
 
-    public String name; //Это поля.
-    public int age;
-    public int rating;
+    private static int maxRating = 0;
+    private String name; //Это поля.
+    private int age;
+    private int rating;
+
+    public Singer(String name , int age, int rating){
+        this.name = name;
+        this.age = age;
+        this.rating = rating;
+        maxRating = Math.max(maxRating, this.rating);
+    }
+
+    public Singer(){
+        this("Ann", 23, 10);
+        //this.name = "Ann";
+        //this.age = 23;
+        //this.rating = 10;
+    }
 
     public void sing(String verse){
 
@@ -16,6 +31,6 @@ public class Singer {
     }
 
     public String toString(){
-        return "[" + rating + "] " + name + " (" + age + ")";
+        return "[" + rating + "] " + name + " (" + age + ") " + "<" + maxRating + ">";
     }
 }
