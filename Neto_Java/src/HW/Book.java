@@ -19,7 +19,8 @@ public class Book {
     }
 
     public int estimatePrice() {
-        return ((int) Math.floor(this.pages * 3 * Math.sqrt(author.rating)) > 250) ? ((int) Math.floor(this.pages * 3 * Math.sqrt(author.rating))) : 250;
+        int help = (int) Math.floor(this.pages * 3 * Math.sqrt(author.rating));
+        return (help > 250) ? (help) : 250;
 
     }
 
