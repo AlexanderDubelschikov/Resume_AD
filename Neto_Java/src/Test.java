@@ -20,7 +20,7 @@
     }
 }*/
 
-public class Test {
+/*public class Test {
     public static final String TEXT = "aaababaabaaaabaabaabaabaaababaabaaababaabaaaabaabaabaabbabaabaaababaababaabaabaabaaabbaab";
     public static final String PATTERN = "aab";
 
@@ -38,4 +38,8 @@ public class Test {
             System.out.println("Строка " + PATTERN + " встретилась в тексте " + count + " раз");
         }
     }
+}*/
+
+public class Test{
+
 }
