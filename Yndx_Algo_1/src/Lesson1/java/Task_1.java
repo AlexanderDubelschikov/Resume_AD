@@ -9,5 +9,38 @@ package Lesson1.java;
 Кондиционер достаточно мощный, поэтому при настройке на правильный режим работы он за час доводит температуру в комнате до желаемой.
 Требуется написать программу, которая по заданной температуре в комнате troom, установленным на кондиционере желаемой температуре tcond и режиму работы определяет температуру, которая установится в комнате через час.*/
 
+import java.util.Scanner;
+
 public class Task_1 {
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
+        int troom = scanner.nextInt();
+        int tcond = scanner.nextInt();
+        String mode = scanner.next();
+
+        switch (mode){
+            case "freeze":
+
+                troom = (troom>tcond) ? tcond : troom;
+                break;
+
+            case "heat":
+
+                troom = (troom<tcond) ? tcond : troom;
+                break;
+
+            case "auto":
+
+                troom = tcond;
+                break;
+
+            case "fan":
+                break;
+        }
+
+        System.out.println(troom);
+
+    }
 }

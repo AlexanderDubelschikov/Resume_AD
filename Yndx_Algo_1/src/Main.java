@@ -1,5 +1,14 @@
+import java.util.Scanner;
+
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        Scanner scanner = new Scanner(System.in);
+
+        int troom = scanner.nextInt();
+        int tcond = scanner.nextInt();
+        String mode = scanner.next();
+
+
+
     }
 }
