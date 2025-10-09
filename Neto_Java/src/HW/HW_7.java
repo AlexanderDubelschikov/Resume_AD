@@ -34,7 +34,7 @@ public class HW_7 {
     }
 
     public static int[] fillBasket(String[] product, int[] price) {
-        int[] result = new int[3];
+        int[] result = new int[product.length];
 
         while (true) {
             Scanner scanner = new Scanner(System.in);
