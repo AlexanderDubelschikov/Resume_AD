@@ -22,7 +22,7 @@ public final class Singer extends Person {
     @Override
     public void happyBirthday() {
         age++;
-        super.happyBirthday();
+        //super.happyBirthday();
         System.out.println("Еще один успешный год для певца! Уже " + age);
     }
 
