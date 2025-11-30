@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Neto_Algorithm/Neto_Algorithm.iml" filepath="$PROJECT_DIR$/Neto_Algorithm/Neto_Algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Neto_Java/Neto_Java.iml" filepath="$PROJECT_DIR$/Neto_Java/Neto_Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Neto_Java_OOP/Neto_Java_OOP.iml" filepath="$PROJECT_DIR$/Neto_Java_OOP/Neto_Java_OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Resume_AD.iml" filepath="$PROJECT_DIR$/.idea/Resume_AD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Yndx_Algo_1/Yndx_Algo_1.iml" filepath="$PROJECT_DIR$/Yndx_Algo_1/Yndx_Algo_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Yndx_Algo_Run_2025/Yndx_Algo_Run_2025.iml" filepath="$PROJECT_DIR$/Yndx_Algo_Run_2025/Yndx_Algo_Run_2025.iml" />
+    </modules>
+  </component>
+</project>
