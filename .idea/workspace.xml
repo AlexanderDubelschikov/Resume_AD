@@ -6,7 +6,53 @@
   <component name="ChangeListManager">
     <list default="true" id="e2fa1b4f-04e3-4a3a-9856-33b6d0ff77bc" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Neto_Java_OOP/src/HW/HW_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/Neto_Java_OOP/src/HW/HW_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Neto_Java_OOP/HW/Address.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Neto_Java_OOP/HW/Company.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Neto_Java_OOP/HW/DoubleBox.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Neto_Java_OOP/HW/HW_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Neto_Java_OOP/HW/HW_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Neto_Java_OOP/HW/HW_3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Neto_Java_OOP/HW/HW_4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Neto_Java_OOP/HW/HW_5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Neto_Java_OOP/HW/RandomBox.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Neto_Java_OOP/HW/Robot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Neto_Java_OOP/HW/SmartRobot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Neto_Java_OOP/HW/taxes/TaxFromDebit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Neto_Java_OOP/HW/taxes/TaxFromDebitMinusCredit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Neto_Java_OOP/HW/taxes/TaxSystem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Neto_Java_OOP/Lesson/Billable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Neto_Java_OOP/Lesson/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Neto_Java_OOP/Lesson/Flute.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Neto_Java_OOP/Lesson/Guitar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Neto_Java_OOP/Lesson/Instrument.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Neto_Java_OOP/Lesson/Lesson_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Neto_Java_OOP/Lesson/Lesson_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Neto_Java_OOP/Lesson/Lesson_2_part_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Neto_Java_OOP/Lesson/Lesson_3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Neto_Java_OOP/Lesson/Lesson_4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Neto_Java_OOP/Lesson/Lesson_4_part_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Neto_Java_OOP/Lesson/Lesson_5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Neto_Java_OOP/Lesson/Lesson_6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Neto_Java_OOP/Lesson/Lesson_6_part_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Neto_Java_OOP/Lesson/Lesson_7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Neto_Java_OOP/Lesson/Lesson_7_part_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Neto_Java_OOP/Lesson/Lesson_7_part_3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Neto_Java_OOP/Lesson/Memory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Neto_Java_OOP/Lesson/MyMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Neto_Java_OOP/Lesson/MyMapPair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Neto_Java_OOP/Lesson/NameInputMismatchException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Neto_Java_OOP/Lesson/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Neto_Java_OOP/Lesson/Piano.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Neto_Java_OOP/Lesson/Plane.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Neto_Java_OOP/Lesson/Ship.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Neto_Java_OOP/Lesson/Singer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Neto_Java_OOP/Lesson/Song.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Neto_Java_OOP/Lesson/Transfer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Neto_Java_OOP/Lesson/Transport.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Neto_Java_OOP/Lesson/UserInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Neto_Java_OOP/Lesson/UserInfo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Neto_Java_OOP/Lesson/Velo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Neto_Java_OOP/Main.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
