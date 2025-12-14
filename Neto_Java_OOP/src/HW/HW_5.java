@@ -61,16 +61,44 @@ class RandomBox<T> {
 class DoubleBox<T> {
     private RandomBox<T> first;
     private RandomBox<T> second;
+    private int col = 0;
 
     public boolean put(int key, T value) {
-        // ваш код
+
+        if (col == 2) {
+            return false;
+        } else if (col == 0) {
+            RandomBox<T> random = new RandomBox<>(key, value);
+            first = random;
+            System.out.println(first.getKey());
+            System.out.println(first.getValue());
+            col++;
+            return true;
+        } else {
+            RandomBox<T> random = new RandomBox<>(key, value);
+            second = random;
+            System.out.println(second.getKey());
+            System.out.println(second.getValue());
+            col++;
+            return true;
+        }
     }
 
     public T get(int key) {
-        // ваш код
+        if (first != null) {
+            if (first.getKey() == key) {
+                return first.getValue();
+            }
+        }
+        if (second != null) {
+            if (second.getKey() == key) {
+                return second.getValue();
+            }
+        }
+        return null;
     }
 
     public int size() {
-        // ваш код
+        return col;
     }
 }
